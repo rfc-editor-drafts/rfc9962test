@@ -12,7 +12,7 @@
   <front>
     <title abbrev="LISP-Decent">A Decentralized Locator/ID Separation Protocol Mapping System (LISP-Decent)</title>
     <seriesInfo name="RFC" value="9962"/>
-    <author initials="D" surname="Farinacci" fullname="Dino Farinacci">
+    <author initials="D." surname="Farinacci" fullname="Dino Farinacci">
       <organization>lispers.net</organization>
       <address>
         <postal>
@@ -23,7 +23,7 @@
         <email>farinacci@gmail.com</email>
       </address>
     </author>
-    <author initials="C" surname="Cantrell" fullname="Colin Cantrell">
+    <author initials="C." surname="Cantrell" fullname="Colin Cantrell">
       <organization>Nexus</organization>
       <address>
         <postal>
